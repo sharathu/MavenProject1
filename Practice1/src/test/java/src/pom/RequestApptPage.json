@@ -1,0 +1,140 @@
+{
+  "ApptReq_Label": "ID##ctl00_ContentPlaceHolder1_lblFormHeader",
+  "EnterRequest_BrdCrumb": "ID##ctl00_ContentPlaceHolder1_lblRequestInfo",
+  "SelectAppt_BrdCrumb": "ID##ctl00_ContentPlaceHolder1_lblApptList",
+  "ViewDetails_BrdCrumb": "id##ctl00_ContentPlaceHolder1_lblAptDetail",
+  "SelectYourMedicalPractice_Label": "xpath##//div[@id='divStep1']/div[@class='divInstruction']",
+  "SelectMedicalPractice_Label": "id##ctl00_ContentPlaceHolder1_lblSelectPracticeInstructions",
+  "Practice_Label": "xpath##//label[@id='ctl00_ContentPlaceHolder1_PracticePersonSelector1_lblPracticeCaption']",
+  "Practice_ListBox": "xpath##//td/select[@id='ctl00_ContentPlaceHolder1_PracticePersonSelector1_ddlPractices']",
+  "SelectProviderLocation_Label": "xpath##//div[@id='divStep2']/div[@class='divInstruction']",
+  "SelectProvider_category_Location_Label": "id##ctl00_ContentPlaceHolder1_lblProviderInstructions",
+  "SelectProvider/Group_Label": "xpath##//td[@id='ctl00_ContentPlaceHolder1_Td4']",
+  "SelectProvider_Dropdown": "id##ctl00_ContentPlaceHolder1_Td5",
+  "SelectCategory_Label": "id##ctl00_ContentPlaceHolder1_Td6",
+  "SelectCategory_Dropdown": "id##ctl00_ContentPlaceHolder1_ddlCategories",
+  "SelectCategoryDropdown_Options": {
+    "Options": "xpath##//select[@id='ctl00_ContentPlaceHolder1_ddlCategories']/option"
+  },
+  "SelectLocation_Label": "id##ctl00_ContentPlaceHolder1_Td8",
+  "SelectLocation_Dropdown": "id##ctl00_ContentPlaceHolder1_ddlLocation",
+  "SelectLocationDropdown_Options": {
+    "Options": "xpath##//select[@id='ctl00_ContentPlaceHolder1_ddlLocation']/option"
+  },
+  "Address_Link": "id##ctl00_ContentPlaceHolder1_lblAddressLink",
+  "SearchAppt_Label": "xpath##//div[@id='divStep3']/div[@class='divInstruction']",
+  "SearchApptInstruction_Label": "xpath##//span[@id='ctl00_ContentPlaceHolder1_lblSubmitInstructions']",
+  "ReasonForAppt_Label": "xpath##//td[@id='ctl00_ContentPlaceHolder1_Td12']",
+  "ReasonForAppt_EditBox": "id##ctl00_ContentPlaceHolder1_txtReason",
+  "Priority_Label": "xpath##//td[@id='ctl00_ContentPlaceHolder1_Td14']",
+  "Priority_Dropdown": "xpath##ctl00_ContentPlaceHolder1_ddlUrgency",
+  "MakeApptFor_Label": "xpath##//td[@id='ctl00_ContentPlaceHolder1_Td16']",
+  "MakeApptFor_Dropdown": "id##ctl00_ContentPlaceHolder1_ddlAppointmentFor",
+  "StartDate_Label": "xpath##//label[@id='ctl00_ContentPlaceHolder1_Label4']",
+  "StartDate_EditBox": "id##ctl00_ContentPlaceHolder1_txtStartDate",
+  "StartDate_Image": "id##ctl00_ContentPlaceHolder1_imgStartDate",
+  "EndDate_Label": "id##ctl00_ContentPlaceHolder1_Label6",
+  "EndDate_EditBox": "id##ctl00_ContentPlaceHolder1_txtEndDate",
+  "EndDate_Image": "id##ctl00_ContentPlaceHolder1_imgEndDate",
+  "PreferredDateORTime_Label": "xpath##//td[@id='ctl00_ContentPlaceHolder1_Td18']",
+  "PreferredStartTime_Dropdown": "id##ctl00_ContentPlaceHolder1_ddlStartTimes",
+  "PreferredEndTime_Dropdown": "id##ctl00_ContentPlaceHolder1_ddlEndTimes",
+  "PreferredDay_CheckBox": {
+                            "Day_CheckBox": "xpath##//table[@id='ctl00_ContentPlaceHolder1_chkFirstPreferredDays']/tbody/tr//input"
+                            },
+  "PreferredDay_Label": {
+                            "Day_Label": "xpath##//table[@id='ctl00_ContentPlaceHolder1_chkFirstPreferredDays']/tbody/tr//label"
+                        },
+  "Disclaimer_Label": "id##ctl00_ContentPlaceHolder1_Disclaimer1_lblDisclaimer",
+  "Search_Btn": "ID##ctl00_ContentPlaceHolder1_btnSubmit",
+  "SubmitRequest_Btn": "ID##ctl00_ContentPlaceHolder1_btnRealtimeExport",
+  "Submit_Btn": "ID##ctl00_ContentPlaceHolder1_btnSubmit",
+
+
+  "AlternateDateORTime_Label": "ID##ctl00_ContentPlaceHolder1_lbl2ndStartTimes",
+  "StartTime_Dropdown": "ID##ctl00_ContentPlaceHolder1_ddl2ndStartTimes",
+  "EndTime_Dropdown": "ID##ctl00_ContentPlaceHolder1_ddl2ndEndTimes",
+  "HoursOfOperation_Label": "ID##ctl00_ContentPlaceHolder1_lblOfficeHours"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

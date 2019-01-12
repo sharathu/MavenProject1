@@ -1,0 +1,6 @@
+{
+    "username_EditBox": "ID##loginTxtUsrName",
+    "password_EditBox": "ID##loginTxtPwd",
+    "login_Btn": "ID##btnLoginSubmit",
+    "CreateAccount_Link": "XPath##//span[contains(text(),'Create Account')]"
+}

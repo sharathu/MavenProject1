@@ -1,0 +1,7 @@
+{
+  "AccountOptions_Link": "XPath##//h1[contains(text(),'Account options') and @class='lblPageTitle headerNavBarDisplay pushR10']",
+  "WelcomeFNLN_Label": "XPath##//div[contains(text(),'Welcome')]",
+  "EmailAddress_Label": "XPath##//div[contains(text(),'Email Address:')]",
+  "SingupForNewAccount_Btn": "XPath##//div[contains(text(),'Sign up for a new account')]",
+  "AddToAnExistingAccount_Btn": "XPath##//div[contains(text(),'Add to an existing account')]"
+}

@@ -1,0 +1,12 @@
+{
+  "EnrollmentTokenValidation_Label": "XPath##//h1[contains(text(),'Enrollment Token Validation') and @class='lblPageTitle headerNavBarDisplay pushR10']",
+  "EnrollmentToken_EditBox": "ID##SecurityToken",
+  "WhatIsASecurityToken_Image": "XPath##//img[@title='What is security token?']",
+  "DOB_EditBox": "ID##DateOfBirth",
+  "LastName_EditBox": "ID##LastName",
+  "EmailAddress_EditBox": "ID##EmailAddress",
+  "IDontWishToProvideAnEmailAddress_ChkBox": "ID##emailReq",
+  "Next_Btn": "XPath##//input[@value='Next']",
+  "Cancel_Btn": "PartialLinkText##Cancel",
+  "AlreadyPatientPortalUser_Error_Label": "XPath##//div[@class='loginErrorMessage' and contains(text(),'It appears that you are already a Patient Portal user.Please log in using your username and password')]"
+}

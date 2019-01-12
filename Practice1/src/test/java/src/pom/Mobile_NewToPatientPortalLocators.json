@@ -1,0 +1,5 @@
+{
+  "NewToPatientPortal_Label": "XPath##//h1[contains(text(),'New to Patient Portal?') and @class='lblPageTitle headerNavBarDisplay pushR10']",
+  "IHaveEnrollmentToken_Btn": "XPath##//div[contains(text(),'I have an enrollment token')]",
+  "IHaveATemporaryUsernameAndPassword_Btn": "XPath##//div[contains(text(),'I have a temporary username and password')]"
+}

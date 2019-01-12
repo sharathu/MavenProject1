@@ -1,0 +1,5 @@
+{
+  "Home_Image": "XPath##//img[@src='/PPMobile/Content/images/bottom-nav-home-on.png']",
+  "Menu_btn": "XPath##//a[@id='menu-btn']",
+  "LogOut_link": "XPath##//a[@id='logout']"
+}

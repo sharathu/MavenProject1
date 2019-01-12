@@ -1,0 +1,5 @@
+{
+  "TermsAndConditions_Label": "XPath##//h1[contains(text(),'Terms and Conditions') and @class='lblPageTitle headerNavBarDisplay pushR10']",
+  "IAccept_Btn": "PartialLinkText##I Accept",
+  "IDonotAccept_Btn": "PartialLinkText##I Do Not Accept"
+}

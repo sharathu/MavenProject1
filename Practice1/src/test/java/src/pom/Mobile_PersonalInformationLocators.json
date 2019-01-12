@@ -1,0 +1,13 @@
+{
+  "PersonalInformation_Label": "XPath##//h1[contains(text(),'Personal informaion') and @class='lblPageTitle headerNavBarDisplay pushR10']",
+  "WelcomeFNLN_Label": "XPath##//div[contains(text(),'Welcome')]",
+  "EmailAddress_Label": "XPath##//div[contains(text(),'Email Address:')]",
+  "PhoneNumber_EditBox": "ID##PhoneNumber",
+  "DateOfBirth_EditBox": "ID##DateOfBirth",
+  "IHaveMyPersonNumber_CheckBox": "XPath##//input[@id='useMRN']",
+  "IHaveMyPersonNumber_Label": "XPath##//label[contains(text(),'I have my Person Number')]",
+  "Next_Btn": "XPath##//input[@value='Next']",
+  "Cancel_Btn": "PartialLinkText##Cancel"
+}
+
+

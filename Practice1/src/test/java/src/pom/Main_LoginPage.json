@@ -1,0 +1,27 @@
+{
+	"Username_EditBox":"ID##ctl00_ContentPlaceHolder1_Login2_txtUserName",
+	"Password_EditBox":"ID##ctl00_ContentPlaceHolder1_Login2_txtPassword",
+	"Login_Btn": "ID##ctl00_ContentPlaceHolder1_Login2_btnLogin1",
+	"WelcomeToPP_Label": "ID##ctl00_ContentPlaceHolder1_lblWelcomeMessage",
+	"WelcomeMsg_Description_Label":"ID##ctl00_ContentPlaceHolder1_lblWelcomeMessageDescription",
+	"LoginToPatientPortal_Label":"ID##ctl00_ContentPlaceHolder1_Login2_lblHeading",
+	"Username_Label":"ID##ctl00_ContentPlaceHolder1_Login2_lblUserName",
+	"Password_Label":"ID##ctl00_ContentPlaceHolder1_Login2_lblPassword",
+	"ForgotUsername_Link":"ID##ctl00_ContentPlaceHolder1_Login2_lnkForgotUsername",
+	"ForgotPassword_Link":"ID##ctl00_ContentPlaceHolder1_Login2_lnkForgotPassword",
+	"IHaveMyPasswordResetToken_Link": "ID##ctl00_ContentPlaceHolder1_Login2_lnkHavePasswordResetToken",
+	"I_am_new_here_Label":"ID##ctl00_ContentPlaceHolder1_Login2_Label1",
+	"CreateAccount_Link": "ID##ctl00_ContentPlaceHolder1_Login2_lnkCreateAccount",
+	"OnlinePatientHelp_Link": "ID##ctl00_ContentPlaceHolder1_Login2_lnkOnlineHelp",
+	"Iam_not_receiving_email_notification_link":"ID##ctl00_ContentPlaceHolder1_Login2_Label2",
+	"Footer_Msg_Label":"xpath##//div[@class='bodyTxt']",
+	"SiteMap_Link":"ID##ctl00_Footer1_lnkSiteMap",
+	"Privacy_Policy_Footer_Link":"ID##ctl00_Footer1_lnkPrivacyPolicy",
+	"MobileSite_Link":"ID##ctl00_Footer1_aMobileSite",
+	"FooterLanguage_Dropdown":"ID##ctl00_Footer1_lstLanguage",
+	"CopyRight_Label":"xpath##//span[@id='ctl00_Footer1_lblCopyright']",
+	"Privacy_Policy_Link":"ID##ctl00_ContentPlaceHolder1_PrivacyPolicy2_lnkPrivacyPolicy"
+	
+	
+	
+}

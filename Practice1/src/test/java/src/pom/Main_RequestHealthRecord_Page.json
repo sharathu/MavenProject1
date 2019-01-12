@@ -1,0 +1,13 @@
+{
+	"Request_Personal_Health_Record_Label":"ID##ctl00_ContentPlaceHolder1_lblFormHeader",
+	"Select_Practice_And_Patient_Label":"ID##ctl00_ContentPlaceHolder1_lblPracticeToRenewMedHeader",
+	"Please_select_medical_practice_Label":"ID##ctl00_ContentPlaceHolder1_lblSelectPracticeInstructions",
+	"Practice_Label":"ID##ctl00_ContentPlaceHolder1_PracticePersonSelector1_tdPracticeCaption",
+	"Practice_Dropdown":"ID##ctl00_ContentPlaceHolder1_PracticePersonSelector1_ddlPractices",
+	"Select_Chart_Date_Label":"xpath##//div[@id='ctl00_ContentPlaceHolder1_step2']//h2",
+	"Please_Select_chart_Description_Label":"ID##ctl00_ContentPlaceHolder1_lblSelectChartDateRangeInstructions",
+	"Chart_Date_Dropdown":"ID##ctl00_ContentPlaceHolder1_ucPHRFilter_ddlDateRange",
+	"Disclaimer_Label":"ID##ctl00_ContentPlaceHolder1_Disclaimer1_lblDisclaimer",
+	"Submit_Btn":"ID##ctl00_ContentPlaceHolder1_btnSend"
+	
+}

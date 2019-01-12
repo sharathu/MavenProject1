@@ -1,0 +1,50 @@
+{
+"Welcome_label":"ID##ctl00_lblPatientName",
+"Patient_Portal_Dashboard_Label":"ID##lblAccHeadTxt",
+"ViewProfile_Link":"ID##ctl00_ContentPlaceHolder1_dashboardPractices_hplViewPractice",
+"Inbox_Link":"xpath##//span[contains(text(),'Inbox')]",
+"Compose_Email_Link":"ID##ctl00_ContentPlaceHolder1_ucNotification_lnkComposeEmail",
+"UpcomingAppointment_Link":"//span[contains(text(),'Upcoming Appointments')]",
+"Schedule_An_Appointment_Link":"ID##ctl00_ContentPlaceHolder1_AppointmentWidget1_lnkScheduleAppt",
+"DashboardNotificationGrid_List":"xpath##//div[@id='ctl00_ContentPlaceHolder1_ucNotification_divDashboardNofificationGrid']/div/a",
+"LabResultGrid_List":"xpath##//div[@id='ctl00_ContentPlaceHolder1_ucLabResults_divDashboardLabsGrid']",
+"MedicationGrid_List":"xpath##//div[@id='ctl00_ContentPlaceHolder1_ucMedications_divDashboardMedsGrid']",
+"API_Info_Link":"ID##ctl00_Footer1_lnkAPIInfo",
+"UserGuide_Link":"ID##ctl00_Footer1_lnkUserGuide",
+"SiteMap_Link":"ID##ctl00_Footer1_lnkSiteMap",
+"GetAcrobatReader_Link":"ID##ctl00_Footer1_lnkGetAdobe",
+	"Privacy_Policy_Footer_Link":"ID##ctl00_Footer1_lnkPrivacyPolicy",
+	"FooterLanguage_Dropdown":"ID##ctl00_Footer1_lstLanguage",
+	"CopyRight_Label":"xpath##//div[@class='leftsection']",
+	"PatientEducation_Search_EditBox":"ID##ctl00$txtPatEduSearch",
+	"PatientEducation_Search_Btn":"ID##ctl00_btnPatEduSearch",
+"Logout_Link":"ID##ctl00_SignOutButton",
+
+"Home_Tab":"ID##ctl00_ucHeader_lnkHomeMenuItem",
+"Mail_Tab":"ID##ctl00_ucHeader_lnkMailMenuItem",
+"Inbox_Tab":"linkText##Compose Message",
+"Inbox_Tab1":"xpath##//a[@id='ctl00_ucHeader_lnkInbox']",
+"SentItems_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkSent_Items']",
+"Compose_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkCompose_Message']",
+
+"Schedule_Tab":"ID##ctl00_ucHeader_lnkScheduleMenuItem",
+"RequestAppt_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkRequest_Appointment']",
+"MyAppointments_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkMy_Appointments']",
+
+"Mychart_Tab":"ID##ctl00_ucHeader_lnkMyChartMenuItem",
+"ViewMyChart_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkView_My_Chart']",
+"RequestHealthRecord_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkRequest_Health_Record']",
+
+"Statements_Tab":"ID##ctl00_ucHeader_lnkPaymentsMenuItem",
+"RenewMedication_Tab":"ID##ctl00_ucHeader_lnkMedicationsMenuItem",
+"PatientEducation_Tab":"ID##ctl00_ucHeader_lnkResearchMenuItem",
+
+"Settings_Tab":"xpath##ctl00_ucHeader_lnkMyAccountsMenuItem",
+"AccountSettings_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkAccount_Settings']",
+"ManageUserGrants_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkManage_User_Grants']",
+"ManagePractices_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkManage_Practices']",
+"StatementNotification_Tab":"xpath##//a[@id='ctl00_ucHeader_lnkStatement_Notifications']"
+
+
+
+}

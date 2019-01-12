@@ -1,0 +1,6 @@
+{
+    "GoogleAuthenticator_Link": "XPath##//h1[contains(text(),'Google Authenticator') and @class='lblPageTitle headerNavBarDisplay pushR10']",
+    "GetStarted_Btn": "XPath##//input[@value='Get started']",
+    "ImNotInterested_Link": "XPath##//a[@id='lnkSkipGoogleAuth' and contains(text(),'I am not interested')]"
+}
+

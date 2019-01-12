@@ -1,0 +1,18 @@
+
+
+{
+  "SecurityQuestions_Link": "XPath##//h1[contains(text(),'Security Questions') and @class='lblPageTitle headerNavBarDisplay pushR10']",
+  "PleaseSelectFiveUniqueQuestions_Label": "XPath##//div[contains(text(),'Please select five unique security questions, then')]",
+  "SecurityQuestion1_webList": "XPath##//select[@id='divFirstSecurityQuestionMaster-ddl']",
+  "SecurityAnswer1_EditBox": "XPath##//input[@id='firstAnswer']",
+  "SecurityQuestion2_webList": "XPath##//select[@id='divSecondSecurityQuestionMaster-ddl']",
+  "SecurityAnswer2_EditBox": "XPath##//input[@id='secondAnswer']",
+  "SecurityQuestion3_webList": "XPath##//select[@id='divThirdSecurityQuestionMaster-ddl']",
+  "SecurityAnswer3_EditBox": "XPath##//input[@id='thirdAnswer']",
+  "SecurityQuestion4_webList": "XPath##//select[@id='divFourthSecurityQuestionMaster-ddl']",
+  "SecurityAnswer4_EditBox": "XPath##//input[@id='fourthAnswer']",
+  "SecurityQuestion5_webList": "XPath##//select[@id='divFifthSecurityQuestionMaster-ddl']",
+  "SecurityAnswer5_EditBox": "XPath##//input[@id='fifthAnswer']",
+  "Submit_Btn": "XPath##//input[@value='Submit']",
+  "Cancel_Btn": "XPath##//a[contains(text(),'Cancel')]"
+}
