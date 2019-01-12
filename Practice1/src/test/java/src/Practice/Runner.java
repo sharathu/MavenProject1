@@ -10,9 +10,9 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="./Features",glue={"StepDefinition"},plugin={"pretty:./Test Output/cucumber-pretty.txt"
-		,"html:./Test Output/HTML Result",
-		"json:./Test Output/Report.json","junit:./Test Output/CucumberResult.xml",
+@CucumberOptions(features="./Features",glue={"src.StepDefinition"},plugin={"pretty:./target/cucumber-pretty.txt"
+		,"html:./target/HTML Result",
+		"json:./target/Report.json","junit:./target/CucumberResult.xml",
 		//"com.cucumber.listener.ExtentCucumberFormatter:./Test Output/HTML Result/report.html"
 		},
 		monochrome=true,
