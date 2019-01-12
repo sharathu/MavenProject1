@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel ="tests">
+	
+  <test  name="Test1">
+  
+  <parameter name="nodeurl" value="http://10.145.12.146:4444/wd/hub" />
+  <parameter name="browser" value="internet explorer"/>
+  <classes>
+  <class name="Practice.SeleniumGrid"/>
+  </classes>
+  </test>
+  
+  <test  name="Test2">
+  <parameter name="nodeurl" value="http://10.145.12.134:5555/wd/hub" />
+  <parameter name="browser" value ="firefox"/>
+  <classes>
+  <class name="Practice.SeleniumGrid"/>
+  </classes>
+  </test> 
+  
+   <test  name="Test3">
+  <parameter name="nodeurl" value="http://10.145.12.134:5555/wd/hub" />
+  <parameter name="browser" value ="chrome"/>
+  <classes>
+  <class name="Practice.SeleniumGrid"/>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
