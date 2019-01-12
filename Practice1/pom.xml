@@ -282,6 +282,11 @@
 <includes>
 <include>**/*Runner.java</include>
 </includes>
+<!--<testSourceDirectory>./src/Practice</testSourceDirectory>-->
+
+<includes>
+<include>**/*testng.xml</include>
+</includes>
 </configuration>
 </plugin>
 </plugins>
