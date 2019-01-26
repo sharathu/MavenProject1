@@ -279,8 +279,11 @@
 <version>2.20</version>
 <configuration>
 <testSourceDirectory>./src/Practice</testSourceDirectory>
+  <suiteXmlFiles>
+                <suiteXmlFile>testng.xml</suiteXmlFile>
+  </suiteXmlFiles> 
 <includes>
-<include>**/*Runner.java</include>
+<include>**/*.java</include>
 </includes>
 <!--<testSourceDirectory>./src/Practice</testSourceDirectory>-->
 
